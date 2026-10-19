@@ -1,0 +1,8 @@
+{
+  "name": "Reach Trader",
+  "description": "Reach Trader - Responsive automated trading bot with Manual, Bulk, and Bot trading modes, POC & indicator overlays, and multi-currency mobile money deposits.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
